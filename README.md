@@ -1,2 +1,2 @@
-# BreastCancer
-Machine learning Implementation on Breast cancer to find out if cancer is haradous or not
+# EDA FOR BOSTON DATASET
+You can use file anywhere anytime without any copyright.
